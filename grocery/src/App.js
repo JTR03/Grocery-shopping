@@ -2,7 +2,6 @@ import Typography from '@mui/material/Typography'
 import Box from '@mui/material/Box'
 import TextField from '@mui/material/TextField';
 import Button from '@mui/material/Button'
-import './App.css';
 import { useEffect, useState } from 'react';
 import Cart from './components/Cart';
 import Container from '@mui/material/Container';
